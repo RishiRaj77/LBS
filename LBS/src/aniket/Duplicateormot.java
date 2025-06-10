@@ -1,5 +1,5 @@
 package aniket;
-package java.util;
+
 
 public class Duplicateormot {
 	 public static void findDuplicatesSorted(int[] arr) {
